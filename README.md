@@ -1,5 +1,5 @@
-# Evaluacion Jhorley Atuña
-Evalución de la Fase 1 de Clear Minds. 
+# Evaluación Jhorley Atuña
+Evaluación de la Fase 1 de Clear Minds. 
 
 <h2>Guía para entender</h2>
 <p>Pueden usar la documentación que bringa Java SE 8</p>
