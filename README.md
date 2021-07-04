@@ -1,4 +1,4 @@
-# EvaluacionJhorleyAtu-a
+# Evaluacion Jhorley Atuña
 Evalución de la Fase 1 de Clear Minds. 
 
 <h2>Guía para entender</h2>
